@@ -1,4 +1,4 @@
-# flutter_development
+# Flutter Development
 
 A new Flutter project.
 
